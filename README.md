@@ -28,6 +28,7 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## DASHBOARD 
+<img width="1760" height="690" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ba61607b-8840-41e3-82c3-0ff18597b8ce" />
 
 ## Project Insight
 Women customers are more likely to buy products compared to men (~65%).
